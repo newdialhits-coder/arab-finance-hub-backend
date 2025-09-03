@@ -4,3 +4,6 @@ requests
 gunicorn
 
 
+
+Flask-SQLAlchemy
+
